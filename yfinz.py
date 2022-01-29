@@ -8,8 +8,8 @@ import nltk
 nltk.download("vader_lexicon")
 print('hello')
 n = 10 #the # of article headlines displayed per ticker
-tickers = ['AAPL']
-def get_Stock_news():
+# tickers = ['AAPL']
+def get_Stock_news(tickers):
     # news_tables = []
     finwiz_url = 'https://finviz.com/quote.ashx?t='
     news_tables = {}
