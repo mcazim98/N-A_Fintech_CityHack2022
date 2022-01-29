@@ -6,9 +6,10 @@ res=requests.get("https://api.nasdaq.com/api/quote/list-type/nasdaq100",headers=
 main_data=res.json()['data']['data']['rows']
 
 all_company = []
+print(main_data[:5])
 for i in range(len(main_data)):
     print(main_data[i]['companyName'])
-    all_company.append(main_data[i]['companyName'])
+    all_company.append([main_data[i]['companyName'],main_data[i]['symbol']])
 
-df = pd.DataFrame({'col':all_company})
+df = pd.DataFrame(all_company, columns=['companyName', "symbol"])
 df.to_csv("all_data.csv", sep=',')
