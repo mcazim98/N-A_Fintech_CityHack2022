@@ -1,0 +1,537 @@
+1	
+bitcoin (BTC)
+Bitcoin
+BTC
+Buy
+$37,694.70	0.1%	2.9%	3.2%	$15,781,242,293	$714,049,307,587	bitcoin (BTC) 7d chart
+2	
+ethereum (ETH)
+Ethereum
+ETH
+Buy
+$2,547.33	0.3%	5.9%	-0.7%	$12,426,289,390	$304,111,668,716	ethereum (ETH) 7d chart
+3	
+tether (USDT)
+Tether
+USDT
+Buy
+$1.00	0.2%	-0.3%	0.2%	$40,669,520,245	$78,169,923,898	tether (USDT) 7d chart
+4	
+binance coin (BNB)
+Binance Coin
+BNB
+Buy
+$390.09	-0.2%	1.1%	1.6%	$1,203,952,344	$65,602,368,522	binance coin (BNB) 7d chart
+5	
+usd coin (USDC)
+USD Coin
+USDC
+Buy
+$1.00	0.1%	0.0%	-0.1%	$4,319,745,606	$49,727,356,772	usd coin (USDC) 7d chart
+6	
+cardano (ADA)
+Cardano
+ADA
+Buy
+$1.07	0.2%	4.3%	-4.9%	$895,462,459	$34,266,903,072	cardano (ADA) 7d chart
+7	
+solana (SOL)
+Solana
+SOL
+Buy
+$97.03	1.0%	8.4%	-13.2%	$1,821,037,327	$30,565,330,925	solana (SOL) 7d chart
+8	
+xrp (XRP)
+XRP
+XRP
+Buy
+$0.615606	-0.1%	2.6%	-3.5%	$2,427,338,012	$29,388,435,642	xrp (XRP) 7d chart
+9	
+terra (LUNA)
+Terra
+LUNA
+Buy
+$52.59	-0.3%	1.7%	-18.3%	$3,225,034,883	$21,091,926,753	terra (LUNA) 7d chart
+10	
+polkadot (DOT)
+Polkadot
+DOT
+Buy
+$18.61	0.2%	4.1%	-4.9%	$734,389,484	$20,084,107,034	polkadot (DOT) 7d chart
+11	
+dogecoin (DOGE)
+Dogecoin
+DOGE
+Buy
+$0.142655	-0.0%	2.1%	0.4%	$423,881,174	$18,933,673,161	dogecoin (DOGE) 7d chart
+12	
+avalanche (AVAX)
+Avalanche
+AVAX
+Buy
+$68.69	0.0%	8.0%	4.2%	$586,016,061	$16,825,124,749	avalanche (AVAX) 7d chart
+13	
+binance usd (BUSD)
+Binance USD
+BUSD
+$1.00	0.1%	-0.2%	0.2%	$3,476,942,911	$14,937,655,793	binance usd (BUSD) 7d chart
+14	
+shiba inu (SHIB)
+Shiba Inu
+SHIB
+Buy
+$0.00002147	-0.0%	3.1%	-3.1%	$388,816,507	$11,794,210,163	shiba inu (SHIB) 7d chart
+15	
+polygon (MATIC)
+Polygon
+MATIC
+Buy
+$1.71	0.3%	5.3%	0.6%	$1,024,747,612	$11,768,836,444	polygon (MATIC) 7d chart
+16	
+terrausd (UST)
+TerraUSD
+UST
+$1.00	-0.0%	0.3%	0.1%	$2,330,574,784	$11,266,412,084	terrausd (UST) 7d chart
+17	
+crypto.com coin (CRO)
+Crypto.com Coin
+CRO
+Buy
+$0.424098	-0.1%	7.9%	16.7%	$130,759,918	$10,709,157,710	crypto.com coin (CRO) 7d chart
+18	
+wrapped bitcoin (WBTC)
+Wrapped Bitcoin
+WBTC
+$37,704.43	0.0%	2.9%	3.7%	$268,450,303	$10,224,064,183	wrapped bitcoin (WBTC) 7d chart
+19	
+dai (DAI)
+Dai
+DAI
+$1.00	0.1%	0.0%	-0.1%	$527,802,289	$9,095,601,913	dai (DAI) 7d chart
+20	
+cosmos (ATOM)
+Cosmos
+ATOM
+$29.74	-0.1%	2.8%	-13.4%	$1,029,364,415	$8,536,751,272	cosmos (ATOM) 7d chart
+21	
+litecoin (LTC)
+Litecoin
+LTC
+$109.33	-0.2%	2.5%	-3.7%	$516,181,444	$7,605,419,805	litecoin (LTC) 7d chart
+22	
+chainlink (LINK)
+Chainlink
+LINK
+$16.24	0.2%	7.7%	-7.2%	$697,393,633	$7,583,279,233	chainlink (LINK) 7d chart
+23	
+near (NEAR)
+Near
+NEAR
+$10.98	-0.6%	5.5%	-16.4%	$395,471,576	$6,875,340,807	near (NEAR) 7d chart
+24	
+algorand (ALGO)
+Algorand
+ALGO
+Buy
+$0.988998	-0.1%	4.3%	-3.9%	$194,325,157	$6,480,621,526	algorand (ALGO) 7d chart
+25	
+tron (TRX)
+TRON
+TRX
+$0.058631	0.3%	3.6%	-3.7%	$564,609,994	$5,969,095,786	tron (TRX) 7d chart
+26	
+ftx token (FTT)
+FTX Token
+FTT
+$40.82	0.0%	6.1%	6.5%	$107,113,496	$5,643,616,002	ftx token (FTT) 7d chart
+27	
+bitcoin cash (BCH)
+Bitcoin Cash
+BCH
+$295.58	0.0%	3.1%	-6.3%	$1,206,126,474	$5,607,105,879	bitcoin cash (BCH) 7d chart
+28	
+okb (OKB)
+OKB
+OKB
+$20.95	-0.2%	1.7%	-1.7%	$270,831,664	$5,504,374,459	okb (OKB) 7d chart
+29	
+fantom (FTM)
+Fantom
+FTM
+$2.15	-0.2%	4.4%	-5.7%	$912,446,356	$5,463,516,269	fantom (FTM) 7d chart
+30	
+stellar (XLM)
+Stellar
+XLM
+$0.202683	-0.2%	5.2%	-0.2%	$183,089,109	$5,035,230,075	stellar (XLM) 7d chart
+31	
+uniswap (UNI)
+Uniswap
+UNI
+$10.98	0.6%	7.9%	-13.4%	$138,485,022	$4,972,385,641	uniswap (UNI) 7d chart
+32	
+lido staked ether (STETH)
+Lido Staked Ether
+STETH
+$2,533.12	0.0%	5.9%	-1.0%	$125,354,442	$4,533,266,042	lido staked ether (STETH) 7d chart
+33	
+ecomi (OMI)
+ECOMI
+OMI
+$0.00749310	0.2%	1.1%	14.7%	$3,927,563	$4,360,309,525	ecomi (OMI) 7d chart
+35	
+hedera (HBAR)
+Hedera
+HBAR
+$0.218471	-0.1%	4.7%	-7.1%	$37,512,527	$4,122,875,459	hedera (HBAR) 7d chart
+34	
+internet computer (ICP)
+Internet Computer
+ICP
+$20.72	0.2%	6.2%	-13.9%	$192,357,593	$4,119,434,203	internet computer (ICP) 7d chart
+36	
+magic internet money (MIM)
+Magic Internet Money
+MIM
+$0.988258	-0.1%	0.5%	-1.4%	$1,178,850,226	$3,871,710,081	magic internet money (MIM) 7d chart
+37	
+vechain (VET)
+VeChain
+VET
+$0.054353	0.0%	3.9%	-5.6%	$199,623,485	$3,629,620,646	vechain (VET) 7d chart
+38	
+decentraland (MANA)
+Decentraland
+MANA
+Buy
+$2.35	-0.4%	4.7%	5.6%	$433,722,844	$3,574,208,098	decentraland (MANA) 7d chart
+39	
+the sandbox (SAND)
+The Sandbox
+SAND
+Buy
+$3.76	-0.6%	9.3%	11.9%	$974,163,521	$3,487,008,378	the sandbox (SAND) 7d chart
+40	
+axie infinity (AXS)
+Axie Infinity
+AXS
+Buy
+$48.20	0.2%	3.2%	-17.1%	$403,413,296	$3,424,101,713	axie infinity (AXS) 7d chart
+41	
+ethereum classic (ETC)
+Ethereum Classic
+ETC
+Buy
+$25.24	0.2%	2.9%	-2.9%	$225,990,317	$3,346,906,908	ethereum classic (ETC) 7d chart
+42	
+leo token (LEO)
+LEO Token
+LEO
+$3.47	-0.2%	0.0%	-1.6%	$472,557	$3,257,026,022	leo token (LEO) 7d chart
+43	
+klaytn (KLAY)
+Klaytn
+KLAY
+$1.21	-0.5%	-0.1%	-4.1%	$27,518,684	$3,180,941,997	klaytn (KLAY) 7d chart
+44	
+ceth (CETH)
+cETH
+CETH
+$51.09	0.1%	6.0%	-0.6%	$30,854,464	$3,155,858,485	ceth (CETH) 7d chart
+45	
+filecoin (FIL)
+Filecoin
+FIL
+Buy
+$20.14	0.2%	6.5%	-7.8%	$298,042,738	$3,113,679,162	filecoin (FIL) 7d chart
+46	
+elrond (EGLD)
+Elrond
+EGLD
+$147.04	0.3%	3.9%	7.0%	$92,732,297	$3,014,367,324	elrond (EGLD) 7d chart
+47	
+theta network (THETA)
+Theta Network
+THETA
+$3.00	0.2%	2.7%	-11.6%	$158,037,689	$3,004,428,224	theta network (THETA) 7d chart
+48	
+helium (HNT)
+Helium
+HNT
+$27.37	0.0%	-2.6%	13.9%	$27,043,388	$2,751,305,257	helium (HNT) 7d chart
+49	
+monero (XMR)
+Monero
+XMR
+$151.87	0.2%	6.6%	-11.7%	$84,620,690	$2,744,618,151	monero (XMR) 7d chart
+50	
+tezos (XTZ)
+Tezos
+XTZ
+Buy
+$3.08	-0.2%	6.1%	-7.6%	$89,769,074	$2,697,059,556	tezos (XTZ) 7d chart
+51	
+cdai (CDAI)
+cDAI
+CDAI
+$0.02216164	-0.3%	1.2%	1.1%	$379,728	$2,635,798,680	cdai (CDAI) 7d chart
+52	
+frax (FRAX)
+Frax
+FRAX
+$0.996947	-0.0%	-0.1%	-0.4%	$23,520,707	$2,622,389,349	frax (FRAX) 7d chart
+53	
+the graph (GRT)
+The Graph
+GRT
+Buy
+$0.416215	0.1%	1.4%	-4.0%	$63,536,545	$2,562,232,240	the graph (GRT) 7d chart
+54	
+iota (MIOTA)
+IOTA
+MIOTA
+Buy
+$0.830763	-0.2%	4.2%	-3.0%	$24,753,545	$2,310,283,499	iota (MIOTA) 7d chart
+55	
+eos (EOS)
+EOS
+EOS
+Buy
+$2.32	0.2%	4.5%	-1.7%	$269,938,563	$2,283,669,987	eos (EOS) 7d chart
+56	
+cusdc (CUSDC)
+cUSDC
+CUSDC
+$0.02251350	-0.1%	0.1%	0.1%	$52,611,166	$2,213,409,224	cusdc (CUSDC) 7d chart
+57	
+osmosis (OSMO)
+Osmosis
+OSMO
+$7.74	0.2%	1.5%	-10.5%	$83,889,610	$2,191,509,109	osmosis (OSMO) 7d chart
+58	
+harmony (ONE)
+Harmony
+ONE
+$0.187421	0.4%	6.8%	-13.1%	$95,191,058	$2,174,298,111	harmony (ONE) 7d chart
+59	
+aave (AAVE)
+Aave
+AAVE
+Buy
+$152.42	0.4%	6.5%	-10.6%	$122,788,494	$2,058,671,310	aave (AAVE) 7d chart
+60	
+bittorrent [old] (BTTOLD)
+BitTorrent [OLD]
+BTTOLD
+$0.00213797	0.2%	-4.1%	-12.7%	$257,133	$1,993,026,537	bittorrent [old] (BTTOLD) 7d chart
+62	
+flow (FLOW)
+Flow
+FLOW
+$6.16	3.9%	18.7%	6.0%	$167,944,202	$1,917,176,006	flow (FLOW) 7d chart
+61	
+pancakeswap (CAKE)
+PancakeSwap
+CAKE
+$7.25	0.2%	3.2%	-18.8%	$151,414,953	$1,907,537,329	pancakeswap (CAKE) 7d chart
+63	
+theta fuel (TFUEL)
+Theta Fuel
+TFUEL
+$0.175259	-0.0%	-2.1%	12.2%	$38,474,672	$1,084,298,887	theta fuel (TFUEL) 7d chart
+64	
+bitcoin sv (BSV)
+Bitcoin SV
+BSV
+$90.59	0.2%	2.5%	-5.1%	$70,480,365	$1,718,060,237	bitcoin sv (BSV) 7d chart
+65	
+maker (MKR)
+Maker
+MKR
+Buy
+$1,903.28	0.2%	6.1%	6.2%	$45,266,283	$1,716,009,802	maker (MKR) 7d chart
+66	
+arweave (AR)
+Arweave
+AR
+$32.45	-0.2%	6.3%	2.5%	$19,519,651	$1,627,067,963	arweave (AR) 7d chart
+67	
+enjin coin (ENJ)
+Enjin Coin
+ENJ
+Buy
+$1.71	0.2%	6.3%	-1.0%	$148,677,986	$1,602,182,092	enjin coin (ENJ) 7d chart
+68	
+stacks (STX)
+Stacks
+STX
+$1.51	-0.0%	5.3%	-11.6%	$58,164,538	$1,590,759,928	stacks (STX) 7d chart
+69	
+radix (XRD)
+Radix
+XRD
+$0.161648	0.1%	1.3%	-0.6%	$348,869	$1,577,283,487	radix (XRD) 7d chart
+70	
+kusama (KSM)
+Kusama
+KSM
+$171.93	-0.0%	4.0%	-19.5%	$38,968,788	$1,543,910,852	kusama (KSM) 7d chart
+71	
+huobi btc (HBTC)
+Huobi BTC
+HBTC
+$37,764.45	-0.1%	3.4%	3.2%	$135,791	$1,506,200,570	huobi btc (HBTC) 7d chart
+72	
+trueusd (TUSD)
+TrueUSD
+TUSD
+$1.00	0.2%	-0.3%	0.1%	$94,285,160	$1,492,447,114	trueusd (TUSD) 7d chart
+73	
+gala (GALA)
+Gala
+GALA
+Buy
+$0.194936	0.4%	4.6%	-10.0%	$299,134,827	$1,470,307,509	gala (GALA) 7d chart
+74	
+amp (AMP)
+Amp
+AMP
+$0.03056565	0.9%	5.6%	2.2%	$13,102,648	$1,467,576,764	amp (AMP) 7d chart
+75	
+ecash (XEC)
+eCash
+XEC
+$0.00007599	-0.5%	6.4%	-7.4%	$38,713,672	$1,441,069,740	ecash (XEC) 7d chart
+76	
+huobi token (HT)
+Huobi Token
+HT
+$8.80	-0.2%	1.1%	-3.9%	$34,039,400	$1,378,166,935	huobi token (HT) 7d chart
+77	
+neo (NEO)
+NEO
+NEO
+Buy
+$19.10	-0.2%	4.7%	-2.5%	$73,395,052	$1,347,599,336	neo (NEO) 7d chart
+78	
+quant (QNT)
+Quant
+QNT
+Buy
+$98.91	0.9%	3.6%	-12.8%	$21,427,997	$1,327,931,030	quant (QNT) 7d chart
+79	
+kucoin token (KCS)
+KuCoin Token
+KCS
+$17.27	0.2%	7.7%	2.8%	$11,335,555	$1,320,217,554	kucoin token (KCS) 7d chart
+80	
+basic attention token (BAT)
+Basic Attention Token
+BAT
+Buy
+$0.873229	0.2%	2.0%	8.2%	$104,379,966	$1,305,336,605	basic attention token (BAT) 7d chart
+81	
+thorchain (RUNE)
+THORChain
+RUNE
+$4.20	0.5%	6.9%	-1.2%	$41,958,486	$1,263,339,395	thorchain (RUNE) 7d chart
+83	
+loopring (LRC)
+Loopring
+LRC
+$0.984547	0.2%	3.0%	13.6%	$181,183,519	$1,227,741,270	loopring (LRC) 7d chart
+82	
+celo (CELO)
+Celo
+CELO
+Buy
+$3.17	-0.1%	3.3%	-10.7%	$29,441,404	$1,226,420,575	celo (CELO) 7d chart
+84	
+convex finance (CVX)
+Convex Finance
+CVX
+$25.13	-0.4%	9.0%	-17.7%	$11,390,371	$1,208,379,423	convex finance (CVX) 7d chart
+85	
+curve dao token (CRV)
+Curve DAO Token
+CRV
+Buy
+$2.95	-0.8%	5.4%	-10.5%	$256,070,603	$1,157,938,828	curve dao token (CRV) 7d chart
+86	
+oasis network (ROSE)
+Oasis Network
+ROSE
+$0.327150	0.5%	7.2%	-10.4%	$153,119,162	$1,141,753,009	oasis network (ROSE) 7d chart
+87	
+zcash (ZEC)
+Zcash
+ZEC
+Buy
+$94.34	0.9%	5.9%	-8.4%	$147,519,484	$1,138,243,638	zcash (ZEC) 7d chart
+88	
+gatetoken (GT)
+GateToken
+GT
+$6.71	0.2%	3.6%	7.4%	$4,282,203	$1,053,789,917	gatetoken (GT) 7d chart
+89	
+pax dollar (USDP)
+Pax Dollar
+USDP
+$0.999432	-0.1%	-0.3%	0.3%	$17,445,666	$1,033,492,232	pax dollar (USDP) 7d chart
+90	
+kadena (KDA)
+Kadena
+KDA
+$6.14	-0.0%	7.4%	11.2%	$34,378,060	$1,029,945,827	kadena (KDA) 7d chart
+91	
+celsius network (CEL)
+Celsius Network
+CEL
+$2.40	1.3%	16.5%	-8.6%	$2,629,698	$1,014,914,823	celsius network (CEL) 7d chart
+92	
+nexo (NEXO)
+NEXO
+NEXO
+$1.81	-0.3%	0.6%	-4.8%	$4,620,238	$1,011,137,394	nexo (NEXO) 7d chart
+93	
+dash (DASH)
+Dash
+DASH
+Buy
+$94.99	0.1%	1.5%	-10.2%	$108,026,070	$1,003,043,858	dash (DASH) 7d chart
+94	
+waves (WAVES)
+Waves
+WAVES
+$9.88	0.7%	1.1%	-7.6%	$123,094,927	$988,488,319	waves (WAVES) 7d chart
+95	
+synthetix network token (SNX)
+Synthetix Network Token
+SNX
+$4.90	-0.1%	4.5%	17.3%	$46,583,571	$985,471,759	synthetix network token (SNX) 7d chart
+96	
+chiliz (CHZ)
+Chiliz
+CHZ
+Buy
+$0.183047	0.1%	4.6%	-7.1%	$93,761,056	$978,181,167	chiliz (CHZ) 7d chart
+97	
+safemoon (SFM)
+SafeMoon
+SFM
+$0.00167731	-0.7%	-1.6%	-1.7%	$478,829	$954,036,247	safemoon (SFM) 7d chart
+98	
+nem (XEM)
+NEM
+XEM
+$0.104062	0.4%	7.9%	7.5%	$29,955,838	$936,841,163	nem (XEM) 7d chart
+99	
+secret (SCRT)
+Secret
+SCRT
+$5.68	0.4%	3.9%	-8.2%	$18,341,895	$918,085,542	secret (SCRT) 7d chart
+100	
+looksrare (LOOKS)
+LooksRare
+LOOKS
+$4.87	0.1%	12.3%	17.8%	$75,410,238	$904,025,889	looksrare (LOOKS) 7d chart
