@@ -1,101 +1,101 @@
-,col
-0,Bitcoin
-1,Ethereum
-2,Tether
-3,Binance Coin
-4,USD Coin
-5,Cardano
-6,Solana
-7,XRP
-8,Terra
-9,Polkadot
-10,Dogecoin
-11,Avalanche
-12,Binance USD
-13,Shiba Inu
-14,Polygon
-15,TerraUSD
-16,Crypto.com Coin
-17,Wrapped Bitcoin
-18,Dai
-19,Cosmos
-20,Litecoin
-21,Chainlink
-22,Near
-23,Algorand
-24,TRON
-25,FTX Token
-26,Bitcoin Cash
-27,OKB
-28,Fantom
-29,Stellar
-30,Uniswap
-31,Lido Staked Ether
-32,ECOMI
-33,Hedera
-34,Internet Computer
-35,Magic Internet Money
-36,VeChain
-37,Decentraland
-38,The Sandbox
-39,Axie Infinity
-40,Ethereum Classic
-41,LEO Token
-42,Klaytn
-43,cETH
-44,Filecoin
-45,Elrond
-46,Theta Network
-47,Helium
-48,Monero
-49,Tezos
-50,cDAI
-51,Frax
-52,The Graph
-53,IOTA
-54,EOS
-55,cUSDC
-56,Osmosis
-57,Harmony
-58,Aave
-59,BitTorrent [OLD]
-60,Flow
-61,PancakeSwap
-62,Theta Fuel
-63,Bitcoin SV
-64,Maker
-65,Arweave
-66,Enjin Coin
-67,Stacks
-68,Radix
-69,Kusama
-70,Huobi BTC
-71,TrueUSD
-72,Gala
-73,Amp
-74,eCash
-75,Huobi Token
-76,NEO
-77,Quant
-78,KuCoin Token
-79,Basic Attention Token
-80,THORChain
-81,Loopring
-82,Celo
-83,Convex Finance
-84,Curve DAO Token
-85,Oasis Network
-86,Zcash
-87,GateToken
-88,Pax Dollar
-89,Kadena
-90,Celsius Network
-91,NEXO
-92,Dash
-93,Waves
-94,Synthetix Network Token
-95,Chiliz
-96,SafeMoon
-97,NEM
-98,Secret
-99,LooksRare
+,col,symbol
+0,Bitcoin,BTC
+1,Ethereum,ETH
+2,Tether,USDT
+3,Binance Coin,BNB
+4,USD Coin,USDC
+5,Cardano,ADA
+6,Solana,SOL
+7,XRP,XRP
+8,Terra,LUNA
+9,Polkadot,DOT
+10,Dogecoin,DOGE
+11,Avalanche,AVAX
+12,Binance USD,BUSD
+13,Shiba Inu,SHIB
+14,Polygon,MATIC
+15,TerraUSD,UST
+16,Crypto.com Coin,CRO
+17,Wrapped Bitcoin,WBTC
+18,Dai,DAI
+19,Cosmos,ATOM
+20,Litecoin,LTC
+21,Chainlink,LINK
+22,Near,NEAR
+23,Algorand,ALGO
+24,TRON,TRX
+25,FTX Token,FTT
+26,Bitcoin Cash,BCH
+27,OKB,OKB
+28,Fantom,FTM
+29,Stellar,XLM
+30,Uniswap,UNI
+31,Lido Staked Ether,STETH
+32,ECOMI,OMI
+33,Hedera,HBAR
+34,Internet Computer,ICP
+35,Magic Internet Money,MIM
+36,VeChain,VET
+37,Decentraland,MANA
+38,The Sandbox,SAND
+39,Axie Infinity,AXS
+40,Ethereum Classic,ETC
+41,LEO Token,LEO
+42,Klaytn,KLAY
+43,cETH,CETH
+44,Filecoin,FIL
+45,Elrond,EGLD
+46,Theta Network,THETA
+47,Helium,HNT
+48,Monero,XMR
+49,Tezos,XTZ
+50,cDAI,CDAI
+51,Frax,FRAX
+52,The Graph,GRT
+53,IOTA,MIOTA
+54,EOS,EOS
+55,cUSDC,CUSDC
+56,Osmosis,OSMO
+57,Harmony,ONE
+58,Aave,AAVE
+59,BitTorrent [OLD],BTTOLD
+60,Flow,FLOW
+61,PancakeSwap,CAKE
+62,Theta Fuel,TFUEL
+63,Bitcoin SV,BSV
+64,Maker,MKR
+65,Arweave,AR
+66,Enjin Coin,ENJ
+67,Stacks,STX
+68,Radix,XRD
+69,Kusama,KSM
+70,Huobi BTC,HBTC
+71,TrueUSD,TUSD
+72,Gala,GALA
+73,Amp,AMP
+74,eCash,XEC
+75,Huobi Token,HT
+76,NEO,NEO
+77,Quant,QNT
+78,KuCoin Token,KCS
+79,Basic Attention Token,BAT
+80,THORChain,RUNE
+81,Loopring,LRC
+82,Celo,CELO
+83,Convex Finance,CVX
+84,Curve DAO Token,CRV
+85,Oasis Network,ROSE
+86,Zcash,ZEC
+87,GateToken,GT
+88,Pax Dollar,USDP
+89,Kadena,KDA
+90,Celsius Network,CEL
+91,NEXO,NEXO
+92,Dash,DASH
+93,Waves,WAVES
+94,Synthetix Network Token,SNX
+95,Chiliz,CHZ
+96,SafeMoon,SFM
+97,NEM,XEM
+98,Secret,SCRT
+99,LooksRare,LOOKS

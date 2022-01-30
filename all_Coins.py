@@ -27,5 +27,5 @@ for i in range(len(new)):
 print(dict_coins)
 
 name = dict_coins.keys()
-df = pd.DataFrame({'col':name})
+df = pd.DataFrame({'col':name, 'symbol': dict_coins.values()})
 df.to_csv("coin.csv")
