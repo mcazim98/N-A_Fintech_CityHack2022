@@ -15,7 +15,8 @@ reddit = praw.Reddit(
 def scraper_stock(stock):
 
 
-        subreddits_stock = ['wallstreetbets','stocks','InvestingandTrading','pennystocks','robinhood']
+        subreddits_stock = ['wallstreetbets','stocks']
+        # 'InvestingandTrading','pennystocks','robinhood']
         
 
        

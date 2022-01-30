@@ -39,7 +39,7 @@ stock = st.sidebar.selectbox(
     "Search Stock",
     stockNameList
     )
-button = st.sidebar.button("Show Crypto")
+button = st.sidebar.button("Show Stock")
 # finding symbol corresponding with name for stock
 
 ind_pos = stockNameList.index(stock)
@@ -50,7 +50,7 @@ stockSymbol = stockSymList[ind_pos]
 
 
 coin = st.sidebar.selectbox(
-    "Search Cryto",
+    "Search Crypto",
     coinList
 )
 
@@ -82,6 +82,14 @@ def lk():
         st.subheader(f"Positive News data for {stock} with sentiment values")
         st.dataframe(pos_news)
         st.subheader(f"Negative News data for {stock} with sentiment values")
+        st.dataframe(neg_news)
+
+        news = rs.scraper_stock(stock)
+        pos_news = news.query("compound > 0").sort_values("compound", ascending = False)
+        neg_news = news.query("compound <= 0").sort_values("compound", ascending = True)
+        st.subheader(f"Positive Reddit News data for {stock} with sentiment values")
+        st.dataframe(pos_news)
+        st.subheader(f"Negative Reddit News data for {stock} with sentiment values")
         st.dataframe(neg_news)
 
     elif button2:
